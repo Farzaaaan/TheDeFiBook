@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "1e667d860873a32f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e512e72b1cafeb7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rule Book.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41c93cd31e155670",
+    "type": "split",
+    "children": [
+      {
+        "id": "c551c7c97b70e8b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fdbe6d44bb90e8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c03fda49812c4f92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc6fbd25f23d8c4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c31ab5b49e51f66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af2575296d52c540",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rule Book.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4e512e72b1cafeb7",
+  "lastOpenFiles": [
+    "Rule Book.md",
+    "DeFi Book.md"
+  ]
+}
